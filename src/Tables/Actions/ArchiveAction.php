@@ -3,7 +3,7 @@
 namespace Okeonline\FilamentArchivable\Tables\Actions;
 
 use Filament\Actions\Concerns\CanCustomizeProcess;
-use Filament\Tables\Actions\Action;
+use Filament\Actions\Action;
 use Illuminate\Database\Eloquent\Model;
 
 class ArchiveAction extends Action
